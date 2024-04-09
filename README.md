@@ -1,0 +1,2 @@
+# fs-page
+django app
